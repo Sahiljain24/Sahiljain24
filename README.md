@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Fullstack development**
 
-- 💬 Ask me about **technology, geo-politics and current affairs**
+- 💬 Ask me about **technology and current affairs**
 
 - 📫 How to reach me **24sahilj@gmail.com**
 
